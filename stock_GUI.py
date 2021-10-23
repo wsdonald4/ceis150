@@ -1,6 +1,6 @@
 # Summary: This module contains the user interface and logic for a graphical user interface version of the stock manager program.
-# Author: 
-# Date: 
+# Author: William Donald
+# Date: 10/20/2021
 
 from datetime import datetime
 from stock_class import Stock, DailyData
